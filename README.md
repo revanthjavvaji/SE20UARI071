@@ -29,12 +29,11 @@ The following is an example of a message that can be sent to the server:
 
 {"message": "Hello from the client!"}
 
-![Screenshot 2023-08-31 192830](https://github.com/revanthjavvaji/SE20UARI071/assets/114976742/0acff6c0-7024-4b2f-a65a-b60e67e6c391)
-
 The server will print the following message to the console:
 
 Received message: Hello from the client!
 
+ ![Screenshot 2023-08-31 192830](https://github.com/revanthjavvaji/SE20UARI071/assets/114976742/0acff6c0-7024-4b2f-a65a-b60e67e6c391)
 
 ## Dependencies
 
